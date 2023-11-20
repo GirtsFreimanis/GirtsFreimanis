@@ -13,8 +13,8 @@ Using an API for all of the articles, this project turns all of the gathered inf
 
 ### [Crypto pair website](https://github.com/GirtsFreimanis/Crypto-page)
 
-Web project utilising a cryptocurrency pair API, routes, twig and bootstrap. 
+Web project utilising a cryptocurrency pair API, routes, twig and bootstrap. Added the option for the user to search crypto pairs and handled exception when searching for invalid crypto pairs.
 
 ### [Rick and morty website](https://github.com/GirtsFreimanis/Rick-n-Mort-Web)
 
-Description of Project 3. Discuss challenges faced and lessons learned.
+First project utilizing web routing and view rendering. All seasons are shown on index page and each season's episodes are displayed as show view. And each episode is rendered in a show view. Implemented search functionality to search by [S01E11] format. 
