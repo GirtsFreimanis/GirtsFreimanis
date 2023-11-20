@@ -1,16 +1,20 @@
-### Hi there 👋 I'm Ģirts
+# Hello there, I'm Ģirts
 
-<!--
-**GirtsFreimanis/GirtsFreimanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated software developer specializing in PHP. My main focus as a programmer is problem solving and innovation.
 
-Here are some ideas to get you started:
+In addition to PHP, i am proficient in Laravel, MySQL, OOP, 
+In addition to my hard skills my main focus as a programmer is problem solving and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [News ](Link to Project 2)
+
+Description of Project 2. Share insights into the purpose and development process.
+
+### [Crypto pair website](https://github.com/GirtsFreimanis/Crypto-page)
+
+Web project utilising a cryptocurrency pair API, routes, twig and bootstrap. 
+
+### [Project Name 3](Link to Project 3)
+
+Description of Project 3. Discuss challenges faced and lessons learned.
