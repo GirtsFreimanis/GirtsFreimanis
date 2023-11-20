@@ -17,4 +17,4 @@ Web project utilising a cryptocurrency pair API, routes, twig and bootstrap. Add
 
 ### [Rick and morty website](https://github.com/GirtsFreimanis/Rick-n-Mort-Web)
 
-First project utilizing web routing and view rendering. All seasons are shown on index page and each season's episodes are displayed as show view. And each episode is rendered in a show view. Implemented search functionality to search by [S01E11] format. 
+First project utilizing web routing and view rendering. All seasons are shown on index page and each season's episodes are displayed as show view. And each episode is rendered in a show view. Implemented search functionality to search by [S01E11] format. On the footer also added another API functionallity which displays the weather in a pre-set city using twig globals.
