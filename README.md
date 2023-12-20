@@ -8,9 +8,9 @@ In addition to my hard skills, my main focus as a programmer is problem solving 
 
 ## Projects
 
-### [News Website](https://github.com/GirtsFreimanis/News-API)
+### [Laravel Article Manager](https://github.com/GirtsFreimanis/Laravel-Article-Manager/tree/master)
 
-Using an API for all of the articles, this project turns all of the gathered information into readable OOP which is displayed using twig engine. Using MVC principles, the project is organized in a way that is scalable for future additions. Using the twig template each route can be simply made from existing twig templates.
+CRUD Laravel application for articles. Used OOP, MVC, Bootstrap. Implemented validation for article creation and editing. Bootstrap toasts for successfull actions. Search bar with date and title. Added article factory for testing.
 
 ### [Crypto pair website](https://github.com/GirtsFreimanis/Crypto-page)
 
