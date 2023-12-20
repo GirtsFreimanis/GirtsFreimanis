@@ -10,7 +10,7 @@ In addition to my hard skills, my main focus as a programmer is problem solving 
 
 ### [Laravel Article Manager](https://github.com/GirtsFreimanis/Laravel-Article-Manager/tree/master)
 
-CRUD Laravel application for articles. Used OOP, MVC, Bootstrap. Implemented validation for article creation and editing. Bootstrap toasts for successfull actions. Search bar with date and title. Added article factory for testing.
+CRUD Laravel application for articles. Used OOP, MVC, Bootstrap. Implemented front and back end validation for article creation and editing. Bootstrap toasts for successfull actions. Search bar with date and title. Added article factory for testing.
 
 ### [Crypto pair website](https://github.com/GirtsFreimanis/Crypto-page)
 
